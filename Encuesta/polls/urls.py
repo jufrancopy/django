@@ -1,5 +1,5 @@
 from django.urls import path
-
+#Julio comento desde su lelu
 from . import views
 app_name = 'polls'
 urlpatterns = [

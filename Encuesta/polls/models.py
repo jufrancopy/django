@@ -1,6 +1,6 @@
 from django.db import models
 import datetime
-#comentario
+#comentario nde tipo
 from django.utils import timezone
 
 class Question(models.Model):
